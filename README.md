@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png" width="150" height="150">
 </p>
-<h3 align="center"> <b>Karrablast</b></h3>
+<h3 align="center"> <b>Venonat</b></h3>
 <h3 align="center">Have a terrifying day! (contains irony)</h3>
