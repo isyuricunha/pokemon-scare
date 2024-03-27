@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png" width="150" height="150">
 </p>
-<h3 align="center"> <b>Jellicent</b></h3>
+<h3 align="center"> <b>Ursaring</b></h3>
 <h3 align="center">Have a terrifying day! (contains irony)</h3>
