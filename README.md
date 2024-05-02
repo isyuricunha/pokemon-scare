@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png" width="150" height="150">
 </p>
-<h3 align="center"> <b>Nidoqueen</b></h3>
+<h3 align="center"> <b>Guzzlord</b></h3>
 <h3 align="center">Have a terrifying day! (contains irony)</h3>
