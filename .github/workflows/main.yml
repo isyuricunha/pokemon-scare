@@ -1,4 +1,4 @@
-name: Generate 2README.md File
+name: Generate REAME.md File
 
 on:
   push:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.7]
+        python-version: [3.13.0] # update py version > 13.x.x
 
     steps:
       - uses: actions/checkout@v2
